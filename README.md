@@ -1,2 +1,2 @@
 # Tailwind
-Here is a sample which shows how beautiful is tailwind.
+Here is a landingpage which shows how beautiful is tailwind. 
